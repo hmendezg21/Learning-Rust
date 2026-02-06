@@ -72,3 +72,8 @@ Generalmente está delimitado por llaves `{}`.
 Cuando una variable sale de su scope:
 - Si estaba en el stack, se elimina inmediatamente
 - Si era dueña de memoria en el heap, Rust libera esa memoria automáticamente
+
+## **Continuación: ¿Qué sigue?**
+[Ver ejemplos en código](/5_ownership/src/main.rs)
+
+[Da clic aquí para ir a la siguiente sección](/6_colecciones/README.md)

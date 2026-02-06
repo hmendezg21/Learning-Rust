@@ -1,6 +1,6 @@
 
 # Introducción 
-Rust es un lenguaje poderoso, seguro y moderno, pero también tiene una curva de aprendizaje particular, especialmente en temas como `ownership`, `borrowing` y `lifetimes`. En ocasiones suele compararse con lenguajes populares como C, C++ o Python, pero su filosofía es bastante distinta. Mientras que en C o C++ el programador es responsable de gestionar manualmente la memoria, Rust introduce un modelo de memoria seguro que evita este tipo de errores en tiempo de compilación, sin necesidad de un `garbage collector`. El `garbage collector` gestiona automáticamente la asignación y liberación de memoria.  Su función principal es identificar y eliminar objetos que ya no están siendo referenciados por el programa, liberando así la memoria que ocupan para que pueda reutilizarse.
+Rust es un lenguaje poderoso, seguro y moderno, pero también tiene una curva de aprendizaje particular, especialmente en temas como `ownership`, `borrowing` y `Objects`. En ocasiones suele compararse con lenguajes populares como C, C++ o Python, pero su filosofía es bastante distinta. Mientras que en C o C++ el programador es responsable de gestionar manualmente la memoria, Rust introduce un modelo de memoria seguro que evita este tipo de errores en tiempo de compilación, sin necesidad de un `garbage collector`. El `garbage collector` gestiona automáticamente la asignación y liberación de memoria.  Su función principal es identificar y eliminar objetos que ya no están siendo referenciados por el programa, liberando así la memoria que ocupan para que pueda reutilizarse.
 
 Por otro lado, lenguajes como Python o JavaScript priorizan la facilidad de uso y la rapidez de desarrollo mediante un recolector de basura. Esto simplifica mucho la escritura de programas, pero introduce costos en rendimiento, consumo de memoria y falta de control preciso sobre cuándo se libera dicha memoria. Rust busca un punto intermedio poco común: ofrecer seguridad y ergonomía, pero con rendimiento comparable al de C y C++.
 
@@ -55,3 +55,4 @@ lo que comenzará con el proceso de compilación y verificación del código. En
 ![correr_hola_mundo](/images/cargo_run_hw.png)
 
 ## **Continuación: ¿Qué sigue?**
+[Da clic aquí para ir a la siguiente sección](/1_Conociendo_la_terminal/README.md)

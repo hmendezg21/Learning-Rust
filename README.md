@@ -22,10 +22,69 @@ El proceso de instalación finaliza cuando la terminal se reinicia y queda de la
 ![terminal](./images/terminal.png)
 
 ---
+### ¿Listo para comenzar?
+<details>
+<summary><strong>Introducción a Rust</strong></summary>
+
+ * [Readme](/0_Introducción/README.md)
+
+</details>
+
+<details>
+<summary><strong>Introducción a la terminal</strong></summary>
+
+ * [Readme](/1_Conociendo_la_terminal/README.md)
+
+</details>
+
+<details>
+<summary><strong>Control de flujo, condicionales y ciclos</strong></summary>
+
+ * [Readme](/2_tipos_de_variable/README.md)
+
+ * [Código](/2_tipos_de_variable/src/main.rs)
+</details>
+
+<details>
+<summary><strong>Funciones</strong></summary>
+
+ * [Readme](/3_control_de_flujo_y_ciclos/README.md)
+
+ * [Código](/3_control_de_flujo_y_ciclos/src/main.rs)
+</details>
+
+<details>
+<summary><strong>Ownership y referencias</strong></summary>
+
+ * [Readme](/5_ownership/README.md)
+
+ * [Código](/5_ownership/src/main.rs)
+</details>
+
+<details>
+<summary><strong>Colecciones: Vec, VecDeQue, HashMap y BTreeMap</strong></summary>
+
+ * [Readme](/6_colecciones/README.md)
+
+ * [Código](/6_colecciones/src/main.rs)
+</details>
+
+<details>
+<summary><strong>Objetos: Struct y enum</strong></summary>
+
+ * [Readme](/7_structs_y_enums/README.md)
+
+ * [Código](/7_structs_y_enums/src/main.rs)
+</details>
+
+
+
+
 ## ⚠️ Nota ⚠️
 
 No olvides que es muy importante fijarte un objetivo para poder medir tu progreso en el dominio del lenguaje. Puedes empezar con algo pequeño, como crear un programa de línea de comandos que lea datos del usuario, una calculadora sencilla, o un conversor de unidades. Eventualmente, podrías proponerte proyectos un poco más grandes, como un gestor de tareas en consola, un servidor web básico, un juego simple, o incluso una pequeña herramienta de sistema.
 Recuerda que en el mundo de la programación el cielo es el único límite 🚀✨!
+
 
 
 

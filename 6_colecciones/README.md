@@ -60,4 +60,7 @@ Usa un **`BTreeMap`** cuando:
 
 `BTreeMap` es más lento que `HashMap`, pero ofrece **orden y operaciones por rango**, lo cual es fundamental en ciertos casos.
 
----
+## **Continuación: ¿Qué sigue?**
+[Ver ejemplos en código](/6_colecciones/src/main.rs)
+
+[Da clic aquí para ir a la siguiente sección](/7_structs_y_enums/README.md)

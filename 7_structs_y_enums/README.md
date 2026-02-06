@@ -64,3 +64,5 @@ en pocas palabras:
 - Usa **struct** cuando todos los datos existen siempre
 - Usa **enum** cuando algo puede ser *una cosa u otra*
 
+## **Continuación: ¿Qué sigue?**
+[Ver ejemplos en código](/7_structs_y_enums/src/main.rs)

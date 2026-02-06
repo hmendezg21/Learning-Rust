@@ -96,3 +96,7 @@ Las tuplas agrupan una cantidad fija de valores, que pueden ser de distintos tip
 
 Los `arrays` son colecciones de elementos del mismo tipo y de longitud fija. A diferencia de otros lenguajes, `Rust` verifica en tiempo de compilación que los accesos a los `arrays` sean seguros. Los `arrays` son útiles cuando se conoce de antemano el número exacto de elementos y se desea un almacenamiento contiguo en memoria.
 
+## **Continuación: ¿Qué sigue?**
+[Ver ejemplos en código](/2_tipos_de_variable/src/main.rs)
+
+[Da clic aquí para ir a la siguiente sección](/3_control_de_flujo_y_ciclos/README.md)

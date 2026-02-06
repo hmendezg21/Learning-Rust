@@ -71,3 +71,7 @@ Existen dos formas de retornar valores:
 Rust favorece la segunda forma, ya que refuerza su enfoque expresivo y funcional.
 
 
+## **Continuación: ¿Qué sigue?**
+[Ver ejemplos en código](/4_funciones/src/main.rs)
+
+[Da clic aquí para ir a la siguiente sección](/5_ownership/README.md)

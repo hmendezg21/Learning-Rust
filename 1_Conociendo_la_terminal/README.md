@@ -117,3 +117,5 @@ archivo.txt  images  Introducción  proyecto  readme.md  README.md
 @DvdRivas ➜ /workspaces/Learning-Rust (main) $ ls # volvemos a ver la lista de elementos para verificar que ya no existen ambos elementos
 images  Introducción  readme.md  README.md
 ```
+## **Continuación: ¿Qué sigue?**
+[Da clic aquí para ir a la siguiente sección](/2_tipos_de_variable/README.md)

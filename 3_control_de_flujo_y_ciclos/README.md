@@ -96,3 +96,7 @@ Ejemplos comunes de uso incluyen:
 - Procesar elementos de una colección
 
 
+## **Continuación: ¿Qué sigue?**
+[Ver ejemplos en código](/3_control_de_flujo_y_ciclos/src/main.rs)
+
+[Da clic aquí para ir a la siguiente sección](/4_funciones/README.md)
