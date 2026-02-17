@@ -38,7 +38,7 @@ El proceso de instalación finaliza cuando la terminal se reinicia y queda de la
 </details>
 
 <details>
-<summary><strong>Control de flujo, condicionales y ciclos</strong></summary>
+<summary><strong>Tipos de variable</strong></summary>
 
  * [Readme](/2_tipos_de_variable/README.md)
 
@@ -46,11 +46,19 @@ El proceso de instalación finaliza cuando la terminal se reinicia y queda de la
 </details>
 
 <details>
-<summary><strong>Funciones</strong></summary>
+<summary><strong>Control de flujo, condicionales y ciclos</strong></summary>
 
  * [Readme](/3_control_de_flujo_y_ciclos/README.md)
 
  * [Código](/3_control_de_flujo_y_ciclos/src/main.rs)
+</details>
+
+<details>
+<summary><strong>Funciones</strong></summary>
+
+ * [Readme](/4_funciones/README.md)
+
+ * [Código](/4_funciones/src/main.rs)
 </details>
 
 <details>
